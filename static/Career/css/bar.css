@@ -1,0 +1,31 @@
+
+.search-field {
+height: 50px;
+padding:10px;
+border: none;
+border-radius:25px;
+outline=none;
+}
+
+.business {
+  width: 400px;
+}
+.location {
+  width: 200px;
+}
+.search-btnn {
+  height: 50px;
+  width: 150px;
+  background: #ffeb3b;
+  border: none;
+  color: #000;
+  border-radius:25px;
+}
+.search-btnn:hover {
+  background:#ffc107;
+  cursor: pointer;
+}
+.form-box {
+  background: rgba(0,0,0,0.5);
+  padding: 30px;
+}

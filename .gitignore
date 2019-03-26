@@ -1,0 +1,10 @@
+# do not include any python package
+/venv
+
+# do not include any idea config file
+/.idea
+
+# do not include any python complile file
+*/__pycache__
+
+
